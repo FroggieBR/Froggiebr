@@ -1,4 +1,4 @@
-<h1 align="left"> Oi gente, td bem? ✌🏾</h1>
+<h1 align="left"> Oi gente, tudo bem? ✌🏾</h1>
 
 ###
 
