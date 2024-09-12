@@ -1,6 +1,6 @@
 <h1 align="left"> Oi gente, tudo bem? ✌🏾</h1>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/iHelSt93ORqbFRnMYU/giphy.gif?cid=6c09b952tm6b572y75jy9wmizscm2ondotck21j59mjqo101&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="75" src="https://media0.giphy.com/media/iHelSt93ORqbFRnMYU/giphy.gif?cid=6c09b952tm6b572y75jy9wmizscm2ondotck21j59mjqo101&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
