@@ -1,5 +1,7 @@
 <h1 align="left"> Oi gente, tudo bem? ✌🏾</h1>
 
+<img align="right" height="150" src="https://media0.giphy.com/media/iHelSt93ORqbFRnMYU/giphy.gif?cid=6c09b952tm6b572y75jy9wmizscm2ondotck21j59mjqo101&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 ###
 
 <p align="left">Meu nome é Andley, tenho 23 anos e sou estudante de ADS na UNIPÊ.</p>
@@ -11,8 +13,6 @@
 ###
 
 <p align="left">📈 Sou da área de análise de dados desde 2019, onde comecei implementando Análise de Dados no LOL e no Valorant, focando principalmente no Valorant, onde foi desde 2020 até 2024.<br>📚 Estudando: Python e Django<br>🎯 Objetivo: Aprender mais e Arrumar uma vaga de emprego.</p>
-
-<img align="right" height="150" src="https://media0.giphy.com/media/iHelSt93ORqbFRnMYU/giphy.gif?cid=6c09b952tm6b572y75jy9wmizscm2ondotck21j59mjqo101&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
