@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📈 Sou da área de análise de dados desde 2019, onde comecei implementando Análise de Dados no LOL e no Valorant, focando principalmente no Valorant, onde foi desde 2020 até 2024.<br>📚 Estudando: Python e Django<br>🎯 Objetivo: Aprender mais e Arrumar uma vaga de emprego.</p>
+<p align="left">📈 Sou da área de análise de dados desde 2019, onde comecei implementando Análise de Dados no LOL e no Valorant, focando principalmente no Valorant, onde foi desde 2020 até 2024.<br>📚 Estudando: Python, Django e SQL<br>🎯 Objetivo: Aprender mais e Arrumar uma vaga de emprego.</p>
 
 ###
 
